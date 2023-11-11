@@ -1,4 +1,4 @@
-# -ARG0SPAN0PTES
+# ARG0SPAN0PTES
 
 ## The one and only me
 
